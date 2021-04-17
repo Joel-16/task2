@@ -26,7 +26,7 @@ var server=http.get(options, (res)=>{
                console.log(err)
                return
             }else{
-               console.log('done writing')
+               console.log('finished, Now check the folder you saved the source code')
             }
          })
       })
